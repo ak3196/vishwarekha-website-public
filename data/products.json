@@ -1,0 +1,1175 @@
+[
+  {
+    "id": "aglaonema",
+    "name": "Aglaonema",
+    "category": "Indoor Plants",
+    "description": "Premium Aglaonema varieties curated for botanical enthusiasts and collectors. Available in 24 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "aglaonema-1",
+        "name": "Aglo-Ahmet-Charun",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/bbf51d8e-2d88-4036-bd60-dfbea5069457/Aglo-ahmet-charun-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-ahmet-charun-edited.jpg",
+        "filename": "Aglo-ahmet-charun-edited.jpg"
+      },
+      {
+        "id": "aglaonema-2",
+        "name": "Aglo-Angel-Pink",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/19fef626-530f-44a5-9d93-52349ac1fdf0/Aglo-angel-pink-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-angel-pink-edited.jpg",
+        "filename": "Aglo-angel-pink-edited.jpg"
+      },
+      {
+        "id": "aglaonema-3",
+        "name": "Aglo-Cherry-Red",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/05eb99df-5f95-4d12-b056-43429a4ae21b/Aglo-cherry-red-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-cherry-red-edited.jpg",
+        "filename": "Aglo-cherry-red-edited.jpg"
+      },
+      {
+        "id": "aglaonema-4",
+        "name": "Aglo-China-Valentine",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/5eec78fd-fc33-4cf8-b645-cccbf0495def/Aglo-china-valentine-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-china-valentine-edited.jpg",
+        "filename": "Aglo-china-valentine-edited.jpg"
+      },
+      {
+        "id": "aglaonema-5",
+        "name": "Aglo-Dollor",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/d7a2a60b-458b-4f4e-9473-0a8799df514f/Aglo-dollor-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-dollor-edited.jpg",
+        "filename": "Aglo-dollor-edited.jpg"
+      },
+      {
+        "id": "aglaonema-6",
+        "name": "Aglo-Eillen",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/929a6b9d-3deb-423d-8e93-7b9ead319431/Aglo-eillen-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-eillen-edited.jpg",
+        "filename": "Aglo-eillen-edited.jpg"
+      },
+      {
+        "id": "aglaonema-7",
+        "name": "Aglo-Pink-Dalmation",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/08f70254-41dd-4186-b998-0d6c34b23b1e/Aglo-pink-dalmation-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-pink-dalmation-edited.jpg",
+        "filename": "Aglo-pink-dalmation-edited.jpg"
+      },
+      {
+        "id": "aglaonema-8",
+        "name": "Aglo-Pink-Panther",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/0a04359b-854a-4acb-952c-20b543ff6a4b/Aglo-pink-panther-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-pink-panther-edited.jpg",
+        "filename": "Aglo-pink-panther-edited.jpg"
+      },
+      {
+        "id": "aglaonema-9",
+        "name": "Aglo-Sapphire",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/85c40b14-1695-401c-945f-999d9c2a9d39/Aglo-sapphire-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-sapphire-edited.jpg",
+        "filename": "Aglo-sapphire-edited.jpg"
+      },
+      {
+        "id": "aglaonema-10",
+        "name": "Aglo-Star-Shinning",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/79213a92-664a-4504-95f7-8af1f37853b9/Aglo-star-shinning-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-star-shinning-edited.jpg",
+        "filename": "Aglo-star-shinning-edited.jpg"
+      },
+      {
+        "id": "aglaonema-11",
+        "name": "Aglo-Thailand-Red",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/797921c6-1a63-4a8e-8115-3e26a7dea53c/Aglo-thailand-red-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-thailand-red-edited.jpg",
+        "filename": "Aglo-thailand-red-edited.jpg"
+      },
+      {
+        "id": "aglaonema-12",
+        "name": "Aglo-Tricolour",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/dc556aab-2166-480f-863c-0bdfd13bf214/Aglo-tricolour-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-tricolour-edited.jpg",
+        "filename": "Aglo-tricolour-edited.jpg"
+      },
+      {
+        "id": "aglaonema-13",
+        "name": "Aglo-Yellow-Compacta",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/11001c5a-ba9a-46d3-ab7f-2fc96d34c20d/Aglo-yellow-compacta-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-yellow-compacta-edited.jpg",
+        "filename": "Aglo-yellow-compacta-edited.jpg"
+      },
+      {
+        "id": "aglaonema-14",
+        "name": "Aglo-Zircon",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/dc819804-17ed-4117-8fd1-ce760a709dbe/Aglo-zircon-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-zircon-edited.jpg",
+        "filename": "Aglo-zircon-edited.jpg"
+      },
+      {
+        "id": "aglaonema-15",
+        "name": "Aglo-Kum-Koon",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c06128b0-e01b-4e21-a440-1a99026dd800/Aglo-kum-koon-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-kum-koon-edited.jpg",
+        "filename": "Aglo-kum-koon-edited.jpg"
+      },
+      {
+        "id": "aglaonema-16",
+        "name": "Aglo-Good-Afternoon",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/61258fde-880c-4a83-8daa-9914df6023a6/Aglo-good-afternoon-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-good-afternoon-edited.jpg",
+        "filename": "Aglo-good-afternoon-edited.jpg"
+      },
+      {
+        "id": "aglaonema-17",
+        "name": "Aglo-Legacy-White",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/11af2e43-dea0-4be8-b4b0-53005459b3dd/Aglo-legacy-white-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-legacy-white-edited.jpg",
+        "filename": "Aglo-legacy-white-edited.jpg"
+      },
+      {
+        "id": "aglaonema-18",
+        "name": "Aglo-Lak-Choi",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8702f46c-b154-40d2-8c41-d2cf0d06fd52/Aglo-lak-choi-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-lak-choi-edited.jpg",
+        "filename": "Aglo-lak-choi-edited.jpg"
+      },
+      {
+        "id": "aglaonema-19",
+        "name": "Aglo-Red-Valentine",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8a4c0953-f07f-4184-895a-7a41208280e0/Aglo-red-valentine-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-red-valentine-edited.jpg",
+        "filename": "Aglo-red-valentine-edited.jpg"
+      },
+      {
+        "id": "aglaonema-20",
+        "name": "Aglo-Prayoon",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/815a8b93-3fae-45dd-bfda-7f1edcf7e9f3/Aglo-prayoon-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-prayoon-edited.jpg",
+        "filename": "Aglo-prayoon-edited.jpg"
+      },
+      {
+        "id": "aglaonema-21",
+        "name": "Aglo-Ten-Karat",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/3b0efd9c-e1f4-4e49-ae8c-598b3cf53fdc/Aglo-ten-karat-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-ten-karat-edited.jpg",
+        "filename": "Aglo-ten-karat-edited.jpg"
+      },
+      {
+        "id": "aglaonema-22",
+        "name": "Aglo-Super-White",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/3026a252-c52b-4851-964f-d36f077a836c/Aglo-super-white-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-super-white-edited.jpg",
+        "filename": "Aglo-super-white-edited.jpg"
+      },
+      {
+        "id": "aglaonema-23",
+        "name": "Aglo-White-Auyamanye",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/e8eee432-38d4-481d-b296-f3ec29dbcaae/Aglo-White-auyamanye-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-White-auyamanye-edited.jpg",
+        "filename": "Aglo-White-auyamanye-edited.jpg"
+      },
+      {
+        "id": "aglaonema-24",
+        "name": "Aglo-Widuri",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/dc73c58f-c178-4f9c-95a7-3d64cd33c849/Aglo-widuri-edited.jpg?format=2500w",
+        "local_image": "/images/Aglo-widuri-edited.jpg",
+        "filename": "Aglo-widuri-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/bbf51d8e-2d88-4036-bd60-dfbea5069457/Aglo-ahmet-charun-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/19fef626-530f-44a5-9d93-52349ac1fdf0/Aglo-angel-pink-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/05eb99df-5f95-4d12-b056-43429a4ae21b/Aglo-cherry-red-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/5eec78fd-fc33-4cf8-b645-cccbf0495def/Aglo-china-valentine-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/d7a2a60b-458b-4f4e-9473-0a8799df514f/Aglo-dollor-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/929a6b9d-3deb-423d-8e93-7b9ead319431/Aglo-eillen-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/08f70254-41dd-4186-b998-0d6c34b23b1e/Aglo-pink-dalmation-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/0a04359b-854a-4acb-952c-20b543ff6a4b/Aglo-pink-panther-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/85c40b14-1695-401c-945f-999d9c2a9d39/Aglo-sapphire-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/79213a92-664a-4504-95f7-8af1f37853b9/Aglo-star-shinning-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/797921c6-1a63-4a8e-8115-3e26a7dea53c/Aglo-thailand-red-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/dc556aab-2166-480f-863c-0bdfd13bf214/Aglo-tricolour-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/11001c5a-ba9a-46d3-ab7f-2fc96d34c20d/Aglo-yellow-compacta-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/dc819804-17ed-4117-8fd1-ce760a709dbe/Aglo-zircon-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c06128b0-e01b-4e21-a440-1a99026dd800/Aglo-kum-koon-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/61258fde-880c-4a83-8daa-9914df6023a6/Aglo-good-afternoon-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/11af2e43-dea0-4be8-b4b0-53005459b3dd/Aglo-legacy-white-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8702f46c-b154-40d2-8c41-d2cf0d06fd52/Aglo-lak-choi-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8a4c0953-f07f-4184-895a-7a41208280e0/Aglo-red-valentine-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/815a8b93-3fae-45dd-bfda-7f1edcf7e9f3/Aglo-prayoon-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/3b0efd9c-e1f4-4e49-ae8c-598b3cf53fdc/Aglo-ten-karat-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/3026a252-c52b-4851-964f-d36f077a836c/Aglo-super-white-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/e8eee432-38d4-481d-b296-f3ec29dbcaae/Aglo-White-auyamanye-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/dc73c58f-c178-4f9c-95a7-3d64cd33c849/Aglo-widuri-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Easy",
+      "waterNeeds": "Moderate",
+      "light": "Low to bright",
+      "variants": 24
+    }
+  },
+  {
+    "id": "alocasia",
+    "name": "Alocasia",
+    "category": "Tropical Plants",
+    "description": "Premium Alocasia varieties curated for botanical enthusiasts and collectors. Available in 12 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "alocasia-1",
+        "name": "Alocasia-Azlanii",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/01063dd5-2210-4f60-a289-c913700aee30/Alocasia-azlanii-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-azlanii-edited.jpg",
+        "filename": "Alocasia-azlanii-edited.jpg"
+      },
+      {
+        "id": "alocasia-2",
+        "name": "Alocasia-Bombino",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8d677de6-9f1b-4700-bd78-87b18c8172fe/Alocasia-bombino-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-bombino-edited.jpg",
+        "filename": "Alocasia-bombino-edited.jpg"
+      },
+      {
+        "id": "alocasia-3",
+        "name": "Alocasia-Cuprea-Red",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c0281ac7-8340-43e0-8044-f5eec0fb26c4/Alocasia-cuprea-red-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-cuprea-red-edited.jpg",
+        "filename": "Alocasia-cuprea-red-edited.jpg"
+      },
+      {
+        "id": "alocasia-4",
+        "name": "Alocasia-Frydek",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/41151eef-b018-4093-92b4-8657ef0fe65c/Alocasia-frydek-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-frydek-edited.jpg",
+        "filename": "Alocasia-frydek-edited.jpg"
+      },
+      {
+        "id": "alocasia-5",
+        "name": "Alocasia-Gageana-Variegata",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9bdb5997-2dc0-436e-b144-fdcf05d74920/Alocasia-gageana-variegata-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-gageana-variegata-edited.jpg",
+        "filename": "Alocasia-gageana-variegata-edited.jpg"
+      },
+      {
+        "id": "alocasia-6",
+        "name": "Alocasia-Jacklyn",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9fda18b1-0530-47f6-b735-d731f6b2cedf/Alocasia-jacklyn-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-jacklyn-edited.jpg",
+        "filename": "Alocasia-jacklyn-edited.jpg"
+      },
+      {
+        "id": "alocasia-7",
+        "name": "Alocasia-Sting-Ray",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/69355a09-c66f-4e98-b028-546fe8609f01/Alocasia-sting-ray-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-sting-ray-edited.jpg",
+        "filename": "Alocasia-sting-ray-edited.jpg"
+      },
+      {
+        "id": "alocasia-8",
+        "name": "Alocasia-Watsonia",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4116a7c1-62a2-4a55-a006-da34d17a5eb5/Alocasia-watsonia-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-watsonia-edited.jpg",
+        "filename": "Alocasia-watsonia-edited.jpg"
+      },
+      {
+        "id": "alocasia-9",
+        "name": "Alocasia-Mini-Macrorrhiza",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c01036e3-741c-4141-81ed-d1caae72e04c/Alocasia-mini-macrorrhiza-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-mini-macrorrhiza-edited.jpg",
+        "filename": "Alocasia-mini-macrorrhiza-edited.jpg"
+      },
+      {
+        "id": "alocasia-10",
+        "name": "Alocasia-Macrorrhiza",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/0af13a37-eb9b-4978-8248-f30b09e31132/Alocasia-macrorrhiza-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-macrorrhiza-edited.jpg",
+        "filename": "Alocasia-macrorrhiza-edited.jpg"
+      },
+      {
+        "id": "alocasia-11",
+        "name": "Alocasia-Silver-Dragon",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/b87e4202-ba23-4b9c-9d89-5f2101080776/Alocasia-silver-dragon-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-silver-dragon-edited.jpg",
+        "filename": "Alocasia-silver-dragon-edited.jpg"
+      },
+      {
+        "id": "alocasia-12",
+        "name": "Alocasia-Sanderiana",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/3cf54965-a633-49b9-98a2-fcfb0257a13b/Alocasia-sanderiana-edited.jpg?format=2500w",
+        "local_image": "/images/Alocasia-sanderiana-edited.jpg",
+        "filename": "Alocasia-sanderiana-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/01063dd5-2210-4f60-a289-c913700aee30/Alocasia-azlanii-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8d677de6-9f1b-4700-bd78-87b18c8172fe/Alocasia-bombino-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c0281ac7-8340-43e0-8044-f5eec0fb26c4/Alocasia-cuprea-red-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/41151eef-b018-4093-92b4-8657ef0fe65c/Alocasia-frydek-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9bdb5997-2dc0-436e-b144-fdcf05d74920/Alocasia-gageana-variegata-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9fda18b1-0530-47f6-b735-d731f6b2cedf/Alocasia-jacklyn-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/69355a09-c66f-4e98-b028-546fe8609f01/Alocasia-sting-ray-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4116a7c1-62a2-4a55-a006-da34d17a5eb5/Alocasia-watsonia-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c01036e3-741c-4141-81ed-d1caae72e04c/Alocasia-mini-macrorrhiza-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/0af13a37-eb9b-4978-8248-f30b09e31132/Alocasia-macrorrhiza-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/b87e4202-ba23-4b9c-9d89-5f2101080776/Alocasia-silver-dragon-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/3cf54965-a633-49b9-98a2-fcfb0257a13b/Alocasia-sanderiana-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Intermediate",
+      "waterNeeds": "Moderate",
+      "light": "Bright indirect",
+      "variants": 12
+    }
+  },
+  {
+    "id": "anthurium",
+    "name": "Anthurium",
+    "category": "Flowering Plants",
+    "description": "Premium Anthurium varieties curated for botanical enthusiasts and collectors. Available in 6 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "anthurium-1",
+        "name": "Anthurium-Sweet-Champion",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/809c785b-0357-41a8-aab3-f881c570a19f/Anthurium-sweet-champion-edited.jpg?format=2500w",
+        "local_image": "/images/Anthurium-sweet-champion-edited.jpg",
+        "filename": "Anthurium-sweet-champion-edited.jpg"
+      },
+      {
+        "id": "anthurium-2",
+        "name": "Anthurium-White",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/89b37a13-547b-4057-9ad2-ed6e8db31dc2/Anthurium-white-edited.jpg?format=2500w",
+        "local_image": "/images/Anthurium-white-edited.jpg",
+        "filename": "Anthurium-white-edited.jpg"
+      },
+      {
+        "id": "anthurium-3",
+        "name": "Anthurium-Million",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/04a484a5-8571-4766-87f6-403c3fa232fc/Anthurium-million-edited.jpg?format=2500w",
+        "local_image": "/images/Anthurium-million-edited.jpg",
+        "filename": "Anthurium-million-edited.jpg"
+      },
+      {
+        "id": "anthurium-4",
+        "name": "Anthurium-Red",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c4adc1b4-91c6-44f8-befd-c3738847a5d3/Anthurium-red-edited.jpg?format=2500w",
+        "local_image": "/images/Anthurium-red-edited.jpg",
+        "filename": "Anthurium-red-edited.jpg"
+      },
+      {
+        "id": "anthurium-5",
+        "name": "Anthurium-Pink-Beauty",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c747a05d-e9a4-4487-8d18-11f74e96cb9b/Anthurium-pink-beauty-edited.jpg?format=2500w",
+        "local_image": "/images/Anthurium-pink-beauty-edited.jpg",
+        "filename": "Anthurium-pink-beauty-edited.jpg"
+      },
+      {
+        "id": "anthurium-6",
+        "name": "Anthurium-Chocalate-Beauty",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/e968251f-6619-4abb-be13-0a4e36c23ba0/Anthurium-chocalate-beauty-edited.jpg?format=2500w",
+        "local_image": "/images/Anthurium-chocalate-beauty-edited.jpg",
+        "filename": "Anthurium-chocalate-beauty-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/809c785b-0357-41a8-aab3-f881c570a19f/Anthurium-sweet-champion-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/89b37a13-547b-4057-9ad2-ed6e8db31dc2/Anthurium-white-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/04a484a5-8571-4766-87f6-403c3fa232fc/Anthurium-million-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c4adc1b4-91c6-44f8-befd-c3738847a5d3/Anthurium-red-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c747a05d-e9a4-4487-8d18-11f74e96cb9b/Anthurium-pink-beauty-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/e968251f-6619-4abb-be13-0a4e36c23ba0/Anthurium-chocalate-beauty-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Intermediate",
+      "waterNeeds": "Moderate",
+      "light": "Bright indirect",
+      "variants": 6
+    }
+  },
+  {
+    "id": "caladium",
+    "name": "Caladium",
+    "category": "Decorative Plants",
+    "description": "Premium Caladium varieties curated for botanical enthusiasts and collectors. Available in 14 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "caladium-1",
+        "name": "Caladium-June-Bride",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c9e6a231-40a4-4134-8844-389a46dffd89/Caladium-june-bride-edited.jpg?format=2500w",
+        "local_image": "/images/Caladium-june-bride-edited.jpg",
+        "filename": "Caladium-june-bride-edited.jpg"
+      },
+      {
+        "id": "caladium-2",
+        "name": "Caladium-New-Wave",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/db8b7520-c645-4d6a-a6ac-5e008e10b4b4/Caladium-new-wave-edited.jpg?format=2500w",
+        "local_image": "/images/Caladium-new-wave-edited.jpg",
+        "filename": "Caladium-new-wave-edited.jpg"
+      },
+      {
+        "id": "caladium-3",
+        "name": "Caladium-Pinky-Boy",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9b349e6d-b07f-457f-9f7d-37fac5f93195/Caladium-pinky-boy-edited.jpg?format=2500w",
+        "local_image": "/images/Caladium-pinky-boy-edited.jpg",
+        "filename": "Caladium-pinky-boy-edited.jpg"
+      },
+      {
+        "id": "caladium-4",
+        "name": "Caladium-Pink-Symphony",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/82496422-abbc-4792-a2fc-ae9de86233dc/Caladium-pink-symphony-edited.jpg?format=2500w",
+        "local_image": "/images/Caladium-pink-symphony-edited.jpg",
+        "filename": "Caladium-pink-symphony-edited.jpg"
+      },
+      {
+        "id": "caladium-5",
+        "name": "Caladium-Postman-Joyner",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/161bdd37-3033-454b-a460-e81148f1df02/Caladium-postman-joyner-edited.jpg?format=2500w",
+        "local_image": "/images/Caladium-postman-joyner-edited.jpg",
+        "filename": "Caladium-postman-joyner-edited.jpg"
+      },
+      {
+        "id": "caladium-6",
+        "name": "Caladium-Red-Glamour",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/69450932-72a6-4e21-989a-73316496a591/Caladium-red-glamour-edited.jpg?format=2500w",
+        "local_image": "/images/Caladium-red-glamour-edited.jpg",
+        "filename": "Caladium-red-glamour-edited.jpg"
+      },
+      {
+        "id": "caladium-7",
+        "name": "20240417_121423",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/2702ea55-deda-4c50-ac3e-a49568d55362/20240417_121423-edited.jpg?format=2500w",
+        "local_image": "/images/20240417_121423-edited.jpg",
+        "filename": "20240417_121423-edited.jpg"
+      },
+      {
+        "id": "caladium-8",
+        "name": "Caladium-Hy-Ramsay",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ee12f8af-ebc3-4e8b-a4f2-ff7a5bfa81eb/Caladium-hy-ramsay-edited.jpg?format=2500w",
+        "local_image": "/images/Caladium-hy-ramsay-edited.jpg",
+        "filename": "Caladium-hy-ramsay-edited.jpg"
+      },
+      {
+        "id": "caladium-9",
+        "name": "Caladium-White",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ed5482eb-5616-4f50-b021-f74080407763/Caladium-white-edited.jpg?format=2500w",
+        "local_image": "/images/Caladium-white-edited.jpg",
+        "filename": "Caladium-white-edited.jpg"
+      },
+      {
+        "id": "caladium-10",
+        "name": "Caladium-Rosebud",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c2f46947-ccde-4fb4-bd0f-41780448d054/Caladium-rosebud-edited.jpg?format=2500w",
+        "local_image": "/images/Caladium-rosebud-edited.jpg",
+        "filename": "Caladium-rosebud-edited.jpg"
+      },
+      {
+        "id": "caladium-11",
+        "name": "Caladium-Hilo-Beauty",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/a5fa13c2-684e-452f-a657-9864cc80e726/Caladium-hilo-beauty-edited.jpg?format=2500w",
+        "local_image": "/images/Caladium-hilo-beauty-edited.jpg",
+        "filename": "Caladium-hilo-beauty-edited.jpg"
+      },
+      {
+        "id": "caladium-12",
+        "name": "Caladium-Yellow-Leopord",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/afbbd0b4-9cd2-477e-a54d-371d23d2cb15/Caladium-yellow-leopord-edited.jpg?format=2500w",
+        "local_image": "/images/Caladium-yellow-leopord-edited.jpg",
+        "filename": "Caladium-yellow-leopord-edited.jpg"
+      },
+      {
+        "id": "caladium-13",
+        "name": "20240420_175805",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/6ecc9f38-2b92-4a6b-9a8b-45d32acbab4e/20240420_175805-edited.jpg?format=2500w",
+        "local_image": "/images/20240420_175805-edited.jpg",
+        "filename": "20240420_175805-edited.jpg"
+      },
+      {
+        "id": "caladium-14",
+        "name": "20240417_121407",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/0112707c-1063-44a8-b271-9158c39d35bf/20240417_121407-edited.jpg?format=2500w",
+        "local_image": "/images/20240417_121407-edited.jpg",
+        "filename": "20240417_121407-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c9e6a231-40a4-4134-8844-389a46dffd89/Caladium-june-bride-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/db8b7520-c645-4d6a-a6ac-5e008e10b4b4/Caladium-new-wave-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9b349e6d-b07f-457f-9f7d-37fac5f93195/Caladium-pinky-boy-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/82496422-abbc-4792-a2fc-ae9de86233dc/Caladium-pink-symphony-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/161bdd37-3033-454b-a460-e81148f1df02/Caladium-postman-joyner-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/69450932-72a6-4e21-989a-73316496a591/Caladium-red-glamour-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/2702ea55-deda-4c50-ac3e-a49568d55362/20240417_121423-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ee12f8af-ebc3-4e8b-a4f2-ff7a5bfa81eb/Caladium-hy-ramsay-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ed5482eb-5616-4f50-b021-f74080407763/Caladium-white-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c2f46947-ccde-4fb4-bd0f-41780448d054/Caladium-rosebud-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/a5fa13c2-684e-452f-a657-9864cc80e726/Caladium-hilo-beauty-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/afbbd0b4-9cd2-477e-a54d-371d23d2cb15/Caladium-yellow-leopord-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/6ecc9f38-2b92-4a6b-9a8b-45d32acbab4e/20240420_175805-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/0112707c-1063-44a8-b271-9158c39d35bf/20240417_121407-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Intermediate",
+      "waterNeeds": "Moderate",
+      "light": "Bright indirect",
+      "variants": 14
+    }
+  },
+  {
+    "id": "calathea",
+    "name": "Calathea",
+    "category": "Indoor Plants",
+    "description": "Premium Calathea varieties curated for botanical enthusiasts and collectors. Available in 4 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "calathea-1",
+        "name": "Calathea-Dottie",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/dc3ab24a-3d45-4dfe-b74c-fce20c21b72f/Calathea-dottie-edited.jpg?format=2500w",
+        "local_image": "/images/Calathea-dottie-edited.jpg",
+        "filename": "Calathea-dottie-edited.jpg"
+      },
+      {
+        "id": "calathea-2",
+        "name": "Calathea-Jungle-Rose",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/3788bef4-7cb9-475f-9979-3e8adb45a16a/Calathea-jungle-rose-edited.jpg?format=2500w",
+        "local_image": "/images/Calathea-jungle-rose-edited.jpg",
+        "filename": "Calathea-jungle-rose-edited.jpg"
+      },
+      {
+        "id": "calathea-3",
+        "name": "Calathea-Ornata-Sanderiana",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/5c7e4145-3d3a-434e-b539-dad4d545020d/Calathea-ornata-sanderiana-edited.jpg?format=2500w",
+        "local_image": "/images/Calathea-ornata-sanderiana-edited.jpg",
+        "filename": "Calathea-ornata-sanderiana-edited.jpg"
+      },
+      {
+        "id": "calathea-4",
+        "name": "20240420_170517",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/52e3b1aa-fc25-4e59-abcd-09fef19ab778/20240420_170517-edited.jpg?format=2500w",
+        "local_image": "/images/20240420_170517-edited.jpg",
+        "filename": "20240420_170517-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/dc3ab24a-3d45-4dfe-b74c-fce20c21b72f/Calathea-dottie-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/3788bef4-7cb9-475f-9979-3e8adb45a16a/Calathea-jungle-rose-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/5c7e4145-3d3a-434e-b539-dad4d545020d/Calathea-ornata-sanderiana-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/52e3b1aa-fc25-4e59-abcd-09fef19ab778/20240420_170517-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Advanced",
+      "waterNeeds": "High",
+      "light": "Indirect",
+      "variants": 4
+    }
+  },
+  {
+    "id": "dieffenbachia",
+    "name": "Dieffenbachia",
+    "category": "Plants",
+    "description": "Premium Dieffenbachia varieties curated for botanical enthusiasts and collectors. Available in 7 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "dieffenbachia-1",
+        "name": "Diffenbachia-Amoena-Baby",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/5681e98d-8ce5-4932-a8aa-df043b2170af/Diffenbachia-amoena-baby-edited.jpg?format=2500w",
+        "local_image": "/images/Diffenbachia-amoena-baby-edited.jpg",
+        "filename": "Diffenbachia-amoena-baby-edited.jpg"
+      },
+      {
+        "id": "dieffenbachia-2",
+        "name": "Diffenbachia-Banana",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/921fbee1-5677-4037-b8ea-bd670a2e25a7/Diffenbachia-banana-edited.jpg?format=2500w",
+        "local_image": "/images/Diffenbachia-banana-edited.jpg",
+        "filename": "Diffenbachia-banana-edited.jpg"
+      },
+      {
+        "id": "dieffenbachia-3",
+        "name": "Diffenbachia-Camille-2",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/6530ada9-04bd-473a-9e3e-3031ee0ffeeb/Diffenbachia-camille-2-edited.jpg?format=2500w",
+        "local_image": "/images/Diffenbachia-camille-2-edited.jpg",
+        "filename": "Diffenbachia-camille-2-edited.jpg"
+      },
+      {
+        "id": "dieffenbachia-4",
+        "name": "Diffenbachia-Sparkle",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/aadf38f3-32e1-4c51-8ca5-b40b9ad45ee3/Diffenbachia-sparkle-edited.jpg?format=2500w",
+        "local_image": "/images/Diffenbachia-sparkle-edited.jpg",
+        "filename": "Diffenbachia-sparkle-edited.jpg"
+      },
+      {
+        "id": "dieffenbachia-5",
+        "name": "Diffenbachia-Star-Bright",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/e4fca942-8c99-4452-a235-00aff94ae11b/Diffenbachia-star-bright-edited.jpg?format=2500w",
+        "local_image": "/images/Diffenbachia-star-bright-edited.jpg",
+        "filename": "Diffenbachia-star-bright-edited.jpg"
+      },
+      {
+        "id": "dieffenbachia-6",
+        "name": "Diffenbachia-",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/19fc6c32-2ee0-45da-87f2-9857c34ea8e0/Diffenbachia--edited.jpg?format=2500w",
+        "local_image": "/images/Diffenbachia--edited.jpg",
+        "filename": "Diffenbachia--edited.jpg"
+      },
+      {
+        "id": "dieffenbachia-7",
+        "name": "Diffenbachia-1",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8ade10f8-77f8-48fe-aca4-e92134f5572e/Diffenbachia-1-edited.jpg?format=2500w",
+        "local_image": "/images/Diffenbachia-1-edited.jpg",
+        "filename": "Diffenbachia-1-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/5681e98d-8ce5-4932-a8aa-df043b2170af/Diffenbachia-amoena-baby-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/921fbee1-5677-4037-b8ea-bd670a2e25a7/Diffenbachia-banana-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/6530ada9-04bd-473a-9e3e-3031ee0ffeeb/Diffenbachia-camille-2-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/aadf38f3-32e1-4c51-8ca5-b40b9ad45ee3/Diffenbachia-sparkle-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/e4fca942-8c99-4452-a235-00aff94ae11b/Diffenbachia-star-bright-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/19fc6c32-2ee0-45da-87f2-9857c34ea8e0/Diffenbachia--edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8ade10f8-77f8-48fe-aca4-e92134f5572e/Diffenbachia-1-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Intermediate",
+      "waterNeeds": "Moderate",
+      "light": "Bright indirect",
+      "variants": 7
+    }
+  },
+  {
+    "id": "dracaena",
+    "name": "Dracaena",
+    "category": "Plants",
+    "description": "Premium Dracaena varieties curated for botanical enthusiasts and collectors. Available in 3 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "dracaena-1",
+        "name": "Draceana-Milky",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/397098d3-114a-4e26-a732-6a4f4c4658e8/Draceana-milky-edited.jpg?format=2500w",
+        "local_image": "/images/Draceana-milky-edited.jpg",
+        "filename": "Draceana-milky-edited.jpg"
+      },
+      {
+        "id": "dracaena-2",
+        "name": "Draceana-Milky-Way",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8f44fbf5-9f63-475f-b319-3ad1d69490e6/Draceana-milky-way-edited.jpg?format=2500w",
+        "local_image": "/images/Draceana-milky-way-edited.jpg",
+        "filename": "Draceana-milky-way-edited.jpg"
+      },
+      {
+        "id": "dracaena-3",
+        "name": "20240419_180330",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/7d35ef26-e1b6-4779-96f4-7d5a6ba0334f/20240419_180330-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_180330-edited.jpg",
+        "filename": "20240419_180330-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/397098d3-114a-4e26-a732-6a4f4c4658e8/Draceana-milky-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8f44fbf5-9f63-475f-b319-3ad1d69490e6/Draceana-milky-way-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/7d35ef26-e1b6-4779-96f4-7d5a6ba0334f/20240419_180330-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Intermediate",
+      "waterNeeds": "Moderate",
+      "light": "Bright indirect",
+      "variants": 3
+    }
+  },
+  {
+    "id": "ficus",
+    "name": "Ficus",
+    "category": "Plants",
+    "description": "Premium Ficus varieties curated for botanical enthusiasts and collectors. Available in 5 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "ficus-1",
+        "name": "Ficus-Lyreta-Bombino",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/e4d3c519-86fd-4feb-aab7-787424aa6f7e/Ficus-lyreta-bombino-edited.jpg?format=2500w",
+        "local_image": "/images/Ficus-lyreta-bombino-edited.jpg",
+        "filename": "Ficus-lyreta-bombino-edited.jpg"
+      },
+      {
+        "id": "ficus-2",
+        "name": "Ficus-Elastica-Ruby",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/5322e3a1-9760-4e5c-9f80-b02a96757b75/Ficus-elastica-ruby-edited.jpg?format=2500w",
+        "local_image": "/images/Ficus-elastica-ruby-edited.jpg",
+        "filename": "Ficus-elastica-ruby-edited.jpg"
+      },
+      {
+        "id": "ficus-3",
+        "name": "Ficus-Elastica-Shivereana",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/079de730-9a6b-4cb6-af88-8c969e805d0c/Ficus-elastica-shivereana-edited.jpg?format=2500w",
+        "local_image": "/images/Ficus-elastica-shivereana-edited.jpg",
+        "filename": "Ficus-elastica-shivereana-edited.jpg"
+      },
+      {
+        "id": "ficus-4",
+        "name": "Ficus-Lyrata",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4ac6e912-10c5-41c7-b649-707da5a74643/Ficus-lyrata-edited.jpg?format=2500w",
+        "local_image": "/images/Ficus-lyrata-edited.jpg",
+        "filename": "Ficus-lyrata-edited.jpg"
+      },
+      {
+        "id": "ficus-5",
+        "name": "Ficus-",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ac0ee27a-310b-481d-a730-3ddf27a5062e/Ficus--edited.jpg?format=2500w",
+        "local_image": "/images/Ficus--edited.jpg",
+        "filename": "Ficus--edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/e4d3c519-86fd-4feb-aab7-787424aa6f7e/Ficus-lyreta-bombino-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/5322e3a1-9760-4e5c-9f80-b02a96757b75/Ficus-elastica-ruby-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/079de730-9a6b-4cb6-af88-8c969e805d0c/Ficus-elastica-shivereana-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4ac6e912-10c5-41c7-b649-707da5a74643/Ficus-lyrata-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ac0ee27a-310b-481d-a730-3ddf27a5062e/Ficus--edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Intermediate",
+      "waterNeeds": "Moderate",
+      "light": "Bright indirect",
+      "variants": 5
+    }
+  },
+  {
+    "id": "foliage-anthurium",
+    "name": "Foliage-anthurium",
+    "category": "Plants",
+    "description": "Premium Foliage-anthurium varieties curated for botanical enthusiasts and collectors. Available in 14 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "foliage-anthurium-1",
+        "name": "20240418_121254",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/872ae06e-f1e6-4c2d-af90-4674b1ea4b36/20240418_121254-edited.jpg?format=2500w",
+        "local_image": "/images/20240418_121254-edited.jpg",
+        "filename": "20240418_121254-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-2",
+        "name": "Foilage-Anthurium-Wave-Of-Love",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/29ca96eb-f114-4126-af44-de95dc28a926/Foilage-Anthurium-wave-of-love-edited.jpg?format=2500w",
+        "local_image": "/images/Foilage-Anthurium-wave-of-love-edited.jpg",
+        "filename": "Foilage-Anthurium-wave-of-love-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-3",
+        "name": "Foilage-Anthurium-Variegata",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/3de5ff42-2801-4133-a7d9-1d0af8c28c48/Foilage-Anthurium-variegata-edited.jpg?format=2500w",
+        "local_image": "/images/Foilage-Anthurium-variegata-edited.jpg",
+        "filename": "Foilage-Anthurium-variegata-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-4",
+        "name": "Foilage-Anthurium-Jenmanii-Gold",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/61754161-b156-47b7-ba1e-e767c18f0c70/Foilage-Anthurium-jenmanii-gold-edited.jpg?format=2500w",
+        "local_image": "/images/Foilage-Anthurium-jenmanii-gold-edited.jpg",
+        "filename": "Foilage-Anthurium-jenmanii-gold-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-5",
+        "name": "20240418_121430",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/02948951-6f37-4e41-8bb0-29bb8336a915/20240418_121430-edited.jpg?format=2500w",
+        "local_image": "/images/20240418_121430-edited.jpg",
+        "filename": "20240418_121430-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-6",
+        "name": "20240418_121311",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4832b92d-9770-4d22-b278-5790ce7e754b/20240418_121311-edited.jpg?format=2500w",
+        "local_image": "/images/20240418_121311-edited.jpg",
+        "filename": "20240418_121311-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-7",
+        "name": "20240418_121037",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/fd4a5e4b-4e14-4e1d-89f2-49b3475db278/20240418_121037-edited.jpg?format=2500w",
+        "local_image": "/images/20240418_121037-edited.jpg",
+        "filename": "20240418_121037-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-8",
+        "name": "20240418_120602",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ffbc4ca9-942b-4ad2-aa7b-80a61c80c892/20240418_120602-edited.jpg?format=2500w",
+        "local_image": "/images/20240418_120602-edited.jpg",
+        "filename": "20240418_120602-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-9",
+        "name": "20240418_121400",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/6612e6b8-820c-4fc3-83ff-12063a8bf70f/20240418_121400-edited.jpg?format=2500w",
+        "local_image": "/images/20240418_121400-edited.jpg",
+        "filename": "20240418_121400-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-10",
+        "name": "Foilage-Anthurium-Hookeri",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/f8e3e6f7-d9c5-4af8-a347-941e2688f9ed/Foilage-Anthurium-hookeri-edited.jpg?format=2500w",
+        "local_image": "/images/Foilage-Anthurium-hookeri-edited.jpg",
+        "filename": "Foilage-Anthurium-hookeri-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-11",
+        "name": "20240418_121158",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9bc95648-d3e9-41a9-b978-f9ee3485d258/20240418_121158-edited.jpg?format=2500w",
+        "local_image": "/images/20240418_121158-edited.jpg",
+        "filename": "20240418_121158-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-12",
+        "name": "20240418_120735",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/5332b191-9012-4d85-ac5d-9f6777ca597f/20240418_120735-edited.jpg?format=2500w",
+        "local_image": "/images/20240418_120735-edited.jpg",
+        "filename": "20240418_120735-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-13",
+        "name": "20240418_121134",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/864ec75d-f9d1-4ed0-9d5b-c550ce4b971c/20240418_121134-edited.jpg?format=2500w",
+        "local_image": "/images/20240418_121134-edited.jpg",
+        "filename": "20240418_121134-edited.jpg"
+      },
+      {
+        "id": "foliage-anthurium-14",
+        "name": "20240418_121227",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/6672cf2f-e90b-4b42-903c-d7dd550d2978/20240418_121227-edited.jpg?format=2500w",
+        "local_image": "/images/20240418_121227-edited.jpg",
+        "filename": "20240418_121227-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/872ae06e-f1e6-4c2d-af90-4674b1ea4b36/20240418_121254-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/29ca96eb-f114-4126-af44-de95dc28a926/Foilage-Anthurium-wave-of-love-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/3de5ff42-2801-4133-a7d9-1d0af8c28c48/Foilage-Anthurium-variegata-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/61754161-b156-47b7-ba1e-e767c18f0c70/Foilage-Anthurium-jenmanii-gold-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/02948951-6f37-4e41-8bb0-29bb8336a915/20240418_121430-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4832b92d-9770-4d22-b278-5790ce7e754b/20240418_121311-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/fd4a5e4b-4e14-4e1d-89f2-49b3475db278/20240418_121037-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ffbc4ca9-942b-4ad2-aa7b-80a61c80c892/20240418_120602-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/6612e6b8-820c-4fc3-83ff-12063a8bf70f/20240418_121400-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/f8e3e6f7-d9c5-4af8-a347-941e2688f9ed/Foilage-Anthurium-hookeri-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9bc95648-d3e9-41a9-b978-f9ee3485d258/20240418_121158-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/5332b191-9012-4d85-ac5d-9f6777ca597f/20240418_120735-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/864ec75d-f9d1-4ed0-9d5b-c550ce4b971c/20240418_121134-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/6672cf2f-e90b-4b42-903c-d7dd550d2978/20240418_121227-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Intermediate",
+      "waterNeeds": "Moderate",
+      "light": "Bright indirect",
+      "variants": 14
+    }
+  },
+  {
+    "id": "money-plant",
+    "name": "Money-plant",
+    "category": "Plants",
+    "description": "Premium Money-plant varieties curated for botanical enthusiasts and collectors. Available in 9 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "money-plant-1",
+        "name": "Monstera-Broken-Heart",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/0b6b1c2a-3fcb-41e2-a78d-0939e9fc7649/Monstera-broken-heart-edited.jpg?format=2500w",
+        "local_image": "/images/Monstera-broken-heart-edited.jpg",
+        "filename": "Monstera-broken-heart-edited.jpg"
+      },
+      {
+        "id": "money-plant-2",
+        "name": "20240419_175444",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/91c729a6-a8eb-4a15-aec6-e8e5f6d1e15a/20240419_175444-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_175444-edited.jpg",
+        "filename": "20240419_175444-edited.jpg"
+      },
+      {
+        "id": "money-plant-3",
+        "name": "20240419_175207",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4a231cb6-bd83-458c-84d8-0890cc37eba4/20240419_175207-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_175207-edited.jpg",
+        "filename": "20240419_175207-edited.jpg"
+      },
+      {
+        "id": "money-plant-4",
+        "name": "20240419_175234",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/a4fc572a-c0f8-4124-9327-9bf331b909a6/20240419_175234-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_175234-edited.jpg",
+        "filename": "20240419_175234-edited.jpg"
+      },
+      {
+        "id": "money-plant-5",
+        "name": "20240419_175419",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ee3756cd-778c-4157-abbf-809e3a08c9b3/20240419_175419-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_175419-edited.jpg",
+        "filename": "20240419_175419-edited.jpg"
+      },
+      {
+        "id": "money-plant-6",
+        "name": "20240419_175107",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8a47b10a-6425-4000-8792-28db156a2f2f/20240419_175107-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_175107-edited.jpg",
+        "filename": "20240419_175107-edited.jpg"
+      },
+      {
+        "id": "money-plant-7",
+        "name": "20240419_175013",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4dccb0d7-51bf-4211-91ee-69b31f2c941a/20240419_175013-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_175013-edited.jpg",
+        "filename": "20240419_175013-edited.jpg"
+      },
+      {
+        "id": "money-plant-8",
+        "name": "20240419_175136",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9c1a882a-861f-4a06-b38b-a017edc9109f/20240419_175136-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_175136-edited.jpg",
+        "filename": "20240419_175136-edited.jpg"
+      },
+      {
+        "id": "money-plant-9",
+        "name": "20240419_174910",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/40b397d2-3521-4071-8c1b-9286f94a3d6e/20240419_174910-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_174910-edited.jpg",
+        "filename": "20240419_174910-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/0b6b1c2a-3fcb-41e2-a78d-0939e9fc7649/Monstera-broken-heart-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/91c729a6-a8eb-4a15-aec6-e8e5f6d1e15a/20240419_175444-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4a231cb6-bd83-458c-84d8-0890cc37eba4/20240419_175207-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/a4fc572a-c0f8-4124-9327-9bf331b909a6/20240419_175234-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ee3756cd-778c-4157-abbf-809e3a08c9b3/20240419_175419-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/8a47b10a-6425-4000-8792-28db156a2f2f/20240419_175107-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4dccb0d7-51bf-4211-91ee-69b31f2c941a/20240419_175013-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9c1a882a-861f-4a06-b38b-a017edc9109f/20240419_175136-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/40b397d2-3521-4071-8c1b-9286f94a3d6e/20240419_174910-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Intermediate",
+      "waterNeeds": "Moderate",
+      "light": "Bright indirect",
+      "variants": 9
+    }
+  },
+  {
+    "id": "monstera",
+    "name": "Monstera",
+    "category": "Plants",
+    "description": "Premium Monstera varieties curated for botanical enthusiasts and collectors. Available in 4 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "monstera-1",
+        "name": "Monstera-Broken-Heart",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/90e0c4dd-062a-43d3-963f-72a2c5adf015/Monstera-broken-heart-edited.jpg?format=2500w",
+        "local_image": "/images/Monstera-broken-heart-edited.jpg",
+        "filename": "Monstera-broken-heart-edited.jpg"
+      },
+      {
+        "id": "monstera-2",
+        "name": "Monstera-Karstenianum",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/58c88ee8-3841-49a4-8bb5-7d9f7fa833c4/Monstera-karstenianum-edited.jpg?format=2500w",
+        "local_image": "/images/Monstera-karstenianum-edited.jpg",
+        "filename": "Monstera-karstenianum-edited.jpg"
+      },
+      {
+        "id": "monstera-3",
+        "name": "Monstera-Thai-Constellation",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/67fb6e56-c0fa-4979-86a2-66cb2de06c51/Monstera-thai-constellation-edited.jpg?format=2500w",
+        "local_image": "/images/Monstera-thai-constellation-edited.jpg",
+        "filename": "Monstera-thai-constellation-edited.jpg"
+      },
+      {
+        "id": "monstera-4",
+        "name": "Monstera-White-Verigated",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/afbc01a9-cb5c-4edf-9f29-8f1e45af4a86/Monstera-white-verigated-edited.jpg?format=2500w",
+        "local_image": "/images/Monstera-white-verigated-edited.jpg",
+        "filename": "Monstera-white-verigated-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/90e0c4dd-062a-43d3-963f-72a2c5adf015/Monstera-broken-heart-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/58c88ee8-3841-49a4-8bb5-7d9f7fa833c4/Monstera-karstenianum-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/67fb6e56-c0fa-4979-86a2-66cb2de06c51/Monstera-thai-constellation-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/afbc01a9-cb5c-4edf-9f29-8f1e45af4a86/Monstera-white-verigated-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Intermediate",
+      "waterNeeds": "Moderate",
+      "light": "Bright indirect",
+      "variants": 4
+    }
+  },
+  {
+    "id": "philodendron",
+    "name": "Philodendron",
+    "category": "Plants",
+    "description": "Premium Philodendron varieties curated for botanical enthusiasts and collectors. Available in 11 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "philodendron-1",
+        "name": "Philo-Bipinnatifidum",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/f5aa0dd5-bb52-4942-b001-99f6761e0d38/Philo-bipinnatifidum-edited.jpg?format=2500w",
+        "local_image": "/images/Philo-bipinnatifidum-edited.jpg",
+        "filename": "Philo-bipinnatifidum-edited.jpg"
+      },
+      {
+        "id": "philodendron-2",
+        "name": "Philo-Birkin",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9cb9e604-3e07-419c-a05d-51cd88263082/Philo-birkin-edited.jpg?format=2500w",
+        "local_image": "/images/Philo-birkin-edited.jpg",
+        "filename": "Philo-birkin-edited.jpg"
+      },
+      {
+        "id": "philodendron-3",
+        "name": "Philo-Florida-Ghost",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/28e1c8dc-890c-4ead-b253-b890bb92d771/Philo-florida-ghost-edited.jpg?format=2500w",
+        "local_image": "/images/Philo-florida-ghost-edited.jpg",
+        "filename": "Philo-florida-ghost-edited.jpg"
+      },
+      {
+        "id": "philodendron-4",
+        "name": "Philo-Moonshine",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/f24d97ba-8d61-4ed3-997f-b75b5312994e/Philo-moonshine-edited.jpg?format=2500w",
+        "local_image": "/images/Philo-moonshine-edited.jpg",
+        "filename": "Philo-moonshine-edited.jpg"
+      },
+      {
+        "id": "philodendron-5",
+        "name": "Philo-Pariso-Verde",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/7e209fb6-9195-4457-bbf2-5673360d7a6d/Philo-pariso-verde-edited.jpg?format=2500w",
+        "local_image": "/images/Philo-pariso-verde-edited.jpg",
+        "filename": "Philo-pariso-verde-edited.jpg"
+      },
+      {
+        "id": "philodendron-6",
+        "name": "Philo-Pink-Princess-1",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/197ec629-e73b-41c7-9a52-52c0fc2e93e4/Philo-pink-princess-1-edited.jpg?format=2500w",
+        "local_image": "/images/Philo-pink-princess-1-edited.jpg",
+        "filename": "Philo-pink-princess-1-edited.jpg"
+      },
+      {
+        "id": "philodendron-7",
+        "name": "Philo-White-Wizard",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/bf7bf37b-17b8-4cd2-973d-e64c31c9d3a2/Philo-white-wizard-edited.jpg?format=2500w",
+        "local_image": "/images/Philo-white-wizard-edited.jpg",
+        "filename": "Philo-white-wizard-edited.jpg"
+      },
+      {
+        "id": "philodendron-8",
+        "name": "Philo-Thailand-Verigated",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/2a99a8ea-3ebe-43c6-a2fb-94b1a7e0c789/Philo-Thailand-verigated-edited.jpg?format=2500w",
+        "local_image": "/images/Philo-Thailand-verigated-edited.jpg",
+        "filename": "Philo-Thailand-verigated-edited.jpg"
+      },
+      {
+        "id": "philodendron-9",
+        "name": "Philo-Sun-Light",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/f1afa939-9db4-4f61-859b-cde21357ac6a/Philo-sun-light-edited.jpg?format=2500w",
+        "local_image": "/images/Philo-sun-light-edited.jpg",
+        "filename": "Philo-sun-light-edited.jpg"
+      },
+      {
+        "id": "philodendron-10",
+        "name": "Philo-White-Princess",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/773e1e75-e5ae-4db2-8690-0ced1a6f1ee3/Philo-white-princess-edited.jpg?format=2500w",
+        "local_image": "/images/Philo-white-princess-edited.jpg",
+        "filename": "Philo-white-princess-edited.jpg"
+      },
+      {
+        "id": "philodendron-11",
+        "name": "Philo-White-Knight",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/065c1c4d-cef4-4cc7-82f8-bc159db8f9ad/Philo-white-knight-edited.jpg?format=2500w",
+        "local_image": "/images/Philo-white-knight-edited.jpg",
+        "filename": "Philo-white-knight-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/f5aa0dd5-bb52-4942-b001-99f6761e0d38/Philo-bipinnatifidum-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/9cb9e604-3e07-419c-a05d-51cd88263082/Philo-birkin-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/28e1c8dc-890c-4ead-b253-b890bb92d771/Philo-florida-ghost-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/f24d97ba-8d61-4ed3-997f-b75b5312994e/Philo-moonshine-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/7e209fb6-9195-4457-bbf2-5673360d7a6d/Philo-pariso-verde-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/197ec629-e73b-41c7-9a52-52c0fc2e93e4/Philo-pink-princess-1-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/bf7bf37b-17b8-4cd2-973d-e64c31c9d3a2/Philo-white-wizard-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/2a99a8ea-3ebe-43c6-a2fb-94b1a7e0c789/Philo-Thailand-verigated-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/f1afa939-9db4-4f61-859b-cde21357ac6a/Philo-sun-light-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/773e1e75-e5ae-4db2-8690-0ced1a6f1ee3/Philo-white-princess-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/065c1c4d-cef4-4cc7-82f8-bc159db8f9ad/Philo-white-knight-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Intermediate",
+      "waterNeeds": "Moderate",
+      "light": "Bright indirect",
+      "variants": 11
+    }
+  },
+  {
+    "id": "syngonium",
+    "name": "Syngonium",
+    "category": "Plants",
+    "description": "Premium Syngonium varieties curated for botanical enthusiasts and collectors. Available in 6 exquisite cultivars.",
+    "availability": "In Stock",
+    "subproducts": [
+      {
+        "id": "syngonium-1",
+        "name": "20240419_180306",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/6fba4206-102a-43ab-b85d-7a94b9930a42/20240419_180306-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_180306-edited.jpg",
+        "filename": "20240419_180306-edited.jpg"
+      },
+      {
+        "id": "syngonium-2",
+        "name": "20240419_180818",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ad967c09-b706-415d-9eb9-29f900ea2bec/20240419_180818-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_180818-edited.jpg",
+        "filename": "20240419_180818-edited.jpg"
+      },
+      {
+        "id": "syngonium-3",
+        "name": "20240419_180659",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c3a05eb5-ddb0-489b-87f3-13b33208050a/20240419_180659-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_180659-edited.jpg",
+        "filename": "20240419_180659-edited.jpg"
+      },
+      {
+        "id": "syngonium-4",
+        "name": "Syngonium-Wendlandi-Silver-Goose",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/b0f90254-312c-4869-a3df-75480a38eb49/Syngonium-wendlandi-silver-goose-edited.jpg?format=2500w",
+        "local_image": "/images/Syngonium-wendlandi-silver-goose-edited.jpg",
+        "filename": "Syngonium-wendlandi-silver-goose-edited.jpg"
+      },
+      {
+        "id": "syngonium-5",
+        "name": "20240419_180757",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/b3dcd6bd-752f-4a32-8d0a-c8874243c9fd/20240419_180757-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_180757-edited.jpg",
+        "filename": "20240419_180757-edited.jpg"
+      },
+      {
+        "id": "syngonium-6",
+        "name": "20240419_180358",
+        "image": "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4d47f570-8e4d-4c4b-8352-95a1c43e1734/20240419_180358-edited.jpg?format=2500w",
+        "local_image": "/images/20240419_180358-edited.jpg",
+        "filename": "20240419_180358-edited.jpg"
+      }
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/6fba4206-102a-43ab-b85d-7a94b9930a42/20240419_180306-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/ad967c09-b706-415d-9eb9-29f900ea2bec/20240419_180818-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/c3a05eb5-ddb0-489b-87f3-13b33208050a/20240419_180659-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/b0f90254-312c-4869-a3df-75480a38eb49/Syngonium-wendlandi-silver-goose-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/b3dcd6bd-752f-4a32-8d0a-c8874243c9fd/20240419_180757-edited.jpg?format=2500w",
+      "https://images.squarespace-cdn.com/content/v1/65e460682e4204603705aec9/4d47f570-8e4d-4c4b-8352-95a1c43e1734/20240419_180358-edited.jpg?format=2500w"
+    ],
+    "specifications": {
+      "careLevel": "Intermediate",
+      "waterNeeds": "Moderate",
+      "light": "Bright indirect",
+      "variants": 6
+    }
+  }
+]
