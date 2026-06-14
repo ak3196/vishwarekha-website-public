@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vishwarekha-website-public/static/css/main.b9063597.css",
-    "main.js": "/vishwarekha-website-public/static/js/main.04b1ee06.js",
+    "main.js": "/vishwarekha-website-public/static/js/main.9217a0b4.js",
     "index.html": "/vishwarekha-website-public/index.html",
     "main.b9063597.css.map": "/vishwarekha-website-public/static/css/main.b9063597.css.map",
-    "main.04b1ee06.js.map": "/vishwarekha-website-public/static/js/main.04b1ee06.js.map"
+    "main.9217a0b4.js.map": "/vishwarekha-website-public/static/js/main.9217a0b4.js.map"
   },
   "entrypoints": [
     "static/css/main.b9063597.css",
-    "static/js/main.04b1ee06.js"
+    "static/js/main.9217a0b4.js"
   ]
 }
